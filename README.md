@@ -1,1 +1,3 @@
-# Esonero_Pincanelli_Erika
+Nome:     Erika
+Cognome:  Pincanelli
+Matricola:333130
